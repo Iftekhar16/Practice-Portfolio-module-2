@@ -40,8 +40,9 @@ nav li{
     margin: 20%;
     border-radius: 10px;
     padding: 20px;
-    height: 10%;
-    
+    height: auto;
+    flex-wrap: wrap;
+    width: auto;
 }
 
 .what-i-do-container-title{
@@ -53,6 +54,8 @@ nav li{
     margin: 1%;
     background-color: rgba(255, 220, 192, 0.37);
     border-radius: 10px;
+    height: auto;
+    width: 70px;
 }
 
 .what-i-do-container-text{
